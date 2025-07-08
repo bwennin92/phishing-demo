@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Modern React Portfolio
 
 This is a modern, visually appealing personal portfolio web app built with React and Vite. It is designed for recruiters to view your projects, skills, and contact information.
@@ -47,4 +33,31 @@ This is a modern, visually appealing personal portfolio web app built with React
 Built with [Vite](https://vitejs.dev/) and [React](https://react.dev/).
 # PortfolioSupra
 Portfolio of my Cyber projects
->>>>>>> 5016cfbfc551dbe39c4cddadf78e660f397b7c46
+
+# Phishing Detection Demo
+
+This interactive React app is designed to **teach users how to spot phishing emails** and elevate their awareness of common phishing scams. The demo presents a series of realistic email examples, challenging users to decide if each is "Phishing" or "Safe." 
+
+## Purpose
+
+Phishing is one of the most common and dangerous forms of cyber attack. This demo helps users:
+- **Recognize red flags** in suspicious emails
+- **Practice identifying phishing attempts** in a safe environment
+- **Learn the tactics** that attackers use to trick people
+
+## How It Works
+
+- You will be shown 5 randomly selected email examples.
+- For each, choose whether you think it is "Phishing" or "Safe."
+- Immediate feedback is provided for each answer, including an explanation.
+- If you answer all correctly, you'll be congratulated with a confetti animation!
+- You can reset and try again for more practice with different questions.
+
+## Try It Out
+
+[Launch the Phishing Detection Demo](https://bwennin92.github.io/phishing-demo/)
+
+---
+
+**Educational Use:**  
+Share this tool with friends, family, or colleagues to help them improve their phishing detection skills and stay safer online.
