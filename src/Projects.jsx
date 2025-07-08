@@ -14,6 +14,16 @@ export default function Projects() {
         <li>
           <strong>Weather Dashboard</strong> – Real-time weather app using OpenWeatherMap API
         </li>
+        <li>
+          <strong>Phishing Detection Demo</strong> – 
+          <a
+            href="https://YOUR_USERNAME.github.io/phishing-demo/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Try it here
+          </a>
+        </li>
       </ul>
     </section>
   );
