@@ -1,0 +1,19 @@
+.projects-section {
+  padding: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.projects-section h2 {
+  margin-bottom: 1rem;
+  color: #020202;
+}
+.projects-section ul {
+  list-style: none;
+  padding: 0;
+}
+.projects-section li {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+}
