@@ -17,7 +17,7 @@ export default function Projects() {
         <li>
           <strong>Phishing Detection Demo</strong> – 
           <a
-            href="https://YOUR_USERNAME.github.io/phishing-demo/"
+            href="https://bwennin92.github.io/phishing-demo/"
             target="_blank"
             rel="noopener noreferrer"
           >
