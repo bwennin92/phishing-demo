@@ -15,8 +15,6 @@
 
 ---
 Built with [Vite](https://vitejs.dev/) and [React](https://react.dev/).
-# PortfolioSupra
-Portfolio of my Cyber projects
 
 # Phishing Detection Demo
 
